@@ -27,7 +27,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @SpringBootApplication
 public class PetClinicApplication {
-
+	// 강의들으면서 필기할거지
 	public static void main(String[] args) {
 		SpringApplication.run(PetClinicApplication.class, args);
 	}
